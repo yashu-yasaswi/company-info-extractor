@@ -1,0 +1,5 @@
+openai==0.27.0
+langchain==0.0.267
+
+regex==2023.8.8
+streamlit==1.25.0
